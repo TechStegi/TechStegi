@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://techstegi.github.io)
-<h1 align="center">Hi 👋, I'm Tim Stegmaier</h1>
+<h1 align="center">Hi 👋, I'm Tim</h1>
 <h3 align="center">Passionately learning Front End Development.</h3>
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fchrisdermody.com%2Fcontent%2Fimages%2F2017%2F12%2F10_coding_dribbble.gif&f=1&nofb=1&ipt=e6549ce615cd4d98fdb5c9a94eb3864da313f2fd3833a097939194e5e50fb3ec&ipo=images">
 
