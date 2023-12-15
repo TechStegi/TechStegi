@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **my personal and selfcoded website**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript & Python**
 
 - 💬 Ask me about **HTML, CSS, beginner JavaScript**
 
-- 📫 How to reach me **sirstegi@gmail.com**
+- 📫 How to reach me **timstegmaier04@gmail.com**
 <br>
 
 <h3 align="left">Connect with me:</h3>
