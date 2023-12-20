@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **JavaScript & Python**
 
-- 💬 Ask me about **HTML, CSS, beginner JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **timstegmaier04@gmail.com**
 <br>
